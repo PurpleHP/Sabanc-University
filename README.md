@@ -22,3 +22,10 @@ This repository contains all the homeworks, projects, and assignments I complete
 
 ### 6. CS310 - Mobile Application Development
 - Java
+
+## Courses I'm Taking This Term:
+### 7. DSA210 - Introduction to Data Science
+### 8. CS301 - Algorithms
+### 9. CS307 - Operating Systems
+### 10. CS404 - Artificial Intelligence
+### 11. CS405 - Computer Graphics
