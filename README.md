@@ -17,15 +17,18 @@ This repository contains all the homeworks, projects, and assignments I complete
 ### 4. CS300 - Data Structures
 - C++
 
-### 5. CS306 - Database Systems
+### 5. CS303 - Logic and Digital System Design
+- Verilog
+
+### 6. CS306 - Database Systems
 - SQL
 
-### 6. CS310 - Mobile Application Development
+### 7. CS310 - Mobile Application Development
 - Java
 
 ## Courses I'm Taking This Term:
-### 7. DSA210 - Introduction to Data Science
-### 8. CS301 - Algorithms
-### 9. CS307 - Operating Systems
-### 10. CS404 - Artificial Intelligence
-### 11. CS405 - Computer Graphics
+### 8. DSA210 - Introduction to Data Science
+### 9. CS301 - Algorithms
+### 10. CS307 - Operating Systems
+### 11. CS404 - Artificial Intelligence
+### 12. CS405 - Computer Graphics
